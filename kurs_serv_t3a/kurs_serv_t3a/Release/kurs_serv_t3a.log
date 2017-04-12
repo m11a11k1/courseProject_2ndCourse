@@ -1,0 +1,57 @@
+﻿Построение начато 07.06.2015 15:07:36.
+     1>Проект "C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\kurs_serv_t3a\kurs_serv_t3a.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\Release\".
+       InitializeBuildStatus:
+         Создание "Release\kurs_serv_t3a.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\kurs_serv_t3a.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(134): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(128): warning C4101: szBuffer: неиспользованная локальная переменная
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(315): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(330): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(348): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(349): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(350): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(366): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(371): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\form_cp.h(372): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\kurs_serv_t3a.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp form_cp.cpp kurs_serv_t3a.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         form_cp.cpp
+         kurs_serv_t3a.cpp
+     1>c:\users\acer-pc\documents\visual studio 2010\projects\kurs_serv_t3a\kurs_serv_t3a\Form1.h(109): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283): см. объявление "wcscpy"
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Acer-PC\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Form1.resX,Release\kurs_serv_t3a.Form1.resources form_cp.resx,Release\kurs_serv_t3a.form_cp.resources
+         Обрабатывается файл ресурсов "Form1.resX", результирующий объект: "Release\kurs_serv_t3a.Form1.resources".
+         Обрабатывается файл ресурсов "form_cp.resx", результирующий объект: "Release\kurs_serv_t3a.form_cp.resources".
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\Release\kurs_serv_t3a.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\kurs_serv_t3a.Form1.resources /ASSEMBLYRESOURCE:Release\kurs_serv_t3a.form_cp.resources /MANIFEST /ManifestFile:"Release\kurs_serv_t3a.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\Release\kurs_serv_t3a.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         Release\form_cp.obj
+         Release\kurs_serv_t3a.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         kurs_serv_t3a.vcxproj -> C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\Release\kurs_serv_t3a.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\Release\kurs_serv_t3a.exe;#1" /manifest Release\kurs_serv_t3a.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\kurs_serv_t3a.unsuccessfulbuild" удаляется.
+         Обращение к "Release\kurs_serv_t3a.lastbuildstate".
+     1>Построение проекта "C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\kurs_serv_t3a\kurs_serv_t3a.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:07.46

@@ -1,0 +1,27 @@
+﻿Построение начато 05.06.2015 2:11:17.
+     1>Проект "C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\kurs_serv_t3a\kurs_serv_t3a.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\kurs_serv_t3a.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         kurs_serv_t3a.vcxproj -> C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\Debug\kurs_serv_t3a.exe
+       MetaGen:
+       Целевой объект "MetaGen" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       FinalizeBuildStatus:
+         Файл "Debug\kurs_serv_t3a.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\kurs_serv_t3a.lastbuildstate".
+     1>Построение проекта "C:\Users\Acer-PC\Documents\Visual Studio 2010\Projects\kurs_serv_t3a\kurs_serv_t3a\kurs_serv_t3a.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.27
